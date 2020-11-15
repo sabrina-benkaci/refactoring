@@ -6,7 +6,7 @@ import main.GildedRose;
 import main.Item;
 
 class GildedRoseTest {
-	@Test
+    @Test
     public void test_set() {
 		Item[] items = new Item[] {
 		new Item("+5 Dexterity Vest", 10, 20),
